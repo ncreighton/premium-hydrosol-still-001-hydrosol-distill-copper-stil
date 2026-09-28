@@ -1,0 +1,2 @@
+# premium-hydrosol-still-001-hydrosol-distill-copper-stil
+Stop cobbling together copper still blueprints and hydrosol recipes across a dozen apps. The Hydrosol Distill &amp; Copper Still Build Hub gives you a single, organized command center to plan, track, and perfect every batch.  This Notion template solves the chaos of still building and distillation logging. Instead of scattered notes, you get a structur
